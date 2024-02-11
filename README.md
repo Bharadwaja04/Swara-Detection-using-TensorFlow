@@ -1,8 +1,8 @@
 # Swara-Detection-using-TensorFlow
-##Description:/n
+Description:
 Our capstone project aimed at detecting swaras in Hindustani Classical Music. Each swara was meticulously labeled using Label Studio, serving as training data for our model. Leveraging object detection techniques, we developed a robust algorithm capable of accurately predicting swaras. This repository contains the codebase, dataset, and documentation detailing our methodology and results, contributing to the advancement of music analysis and cultural preservation./n/n
 
-Key Features:/n/n
+Key Features:
 
 Swara detection model trained on labeled Hindustani Classical Music data
 Implementation of object detection algorithms for predicting swaras
